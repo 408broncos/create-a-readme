@@ -56,5 +56,14 @@ const Questions = [
         name: "install",
         message: "Enter ways you installed your project",
         type: "input"
+    },
+];
+
+const writeFile = async(data) => {
+    try{
+        await fs.writeFile("README.md", data);
+        console.log("README has been added!");
+    } catch(err) {
+        console.log(err);
     }
-]
+};
