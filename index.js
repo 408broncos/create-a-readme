@@ -80,6 +80,7 @@ inquirer
 const generateREADME = ({ author, email, github, title, description, usage, test, license, contributors, install }) => {
     return `
 # ${title}
+![Github license](http://img.shields.io/badge/license-${license}-blue.svg)
 
 ## Description
 
@@ -124,8 +125,10 @@ ${test}
 ### ${author}
 
 If you have any questions regarding this or past projects please email me at the address linked below.
+
 [Email](https://${email})
 
 If you would like to look at any of my past projects feel free to check them out with my github account linked below!
+
 [Github](https://github.com/${github})
 `}

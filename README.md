@@ -1,9 +1,9 @@
 
-# create-a-readme
+# test
 
 ## Description
 
-This project was a little bit different than the other assignments I had been given. For this assignment I was tasked with creating a README all from scratch and all run through javascript.
+test
 
 ## Table of contents
 
@@ -16,14 +16,15 @@ This project was a little bit different than the other assignments I had been gi
 
 ## Installation
 
-For installation I needed to clone my repository in vscode where I then worked on this assignment. I then needed to run inquirer in my terminal by using "npm i inquirer@8.2.4".
+What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+test
 
 ## Markdown
 
 
 ## Usage
 
-In this assignment I used primarily node, json, javascript and inquirer for my terminal so that I can prompt questions and answer them to display on the README.md.
+test
 
 ## License
 
@@ -32,20 +33,20 @@ MIT
 
 ## Contributing
 
-none
+test
 
 ## Tests
 
-For running tests in this project I would use "npm test"
+test
 
 ## Author/Questions
 
-### Jordan Cardenas
+### jordan
 
 If you have any questions regarding this or past projects please email me at the address linked below.
 
-[Email](https://jordanbc408@gmail.com)
+[Email](https://test)
 
 If you would like to look at any of my past projects feel free to check them out with my github account linked below!
 
-[Github](https://github.com/408broncos)
+[Github](https://github.com/test)
