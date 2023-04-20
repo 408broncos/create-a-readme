@@ -23,6 +23,7 @@ For installation I first needed to clone my repository to my terminal. After I w
 Here's a quick walkthrough demo video showing how this application functions. 
 
 
+
 ## Usage
 
 In this assignment I used primarily node, json, javascript and inquirer for my terminal so that I can prompt questions and answer them to display on the README.md
