@@ -1,5 +1,7 @@
+//calling consts for "fs" and "inquirer"
 const fs = require("fs");
 const inquirer = require("inquirer");
+//questions that will prompt in terminal
 inquirer
     .prompt([
     {
@@ -67,16 +69,21 @@ inquirer
     ])
 
 
-.then(answers => {
-    const answersStr = generateREADME(answers);
-    fs.writeFile("README.md", answersStr,(err) => {
+//giving it a .then method for answer inputs in the terminal
+    .then(answers => {
+    //answers that will display on the generated readme
+        const answersStr = generateREADME(answers);
+    //new README.md file made 
+        fs.writeFile("README.md", answersStr,(err) => {
         if (err) {
         console.error(err); 
         } else {
+            //after all questions have been answered a console log displays "it works"
             console.log("it works");
         }
     });
 });
+//calling all name values to display, inside template literals, all answers to their intended locations on the readme prompt below 
 const generateREADME = ({ author, email, github, title, description, usage, test, license, contributors, install }) => {
     return `
 # ${title}
