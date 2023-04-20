@@ -110,7 +110,7 @@ ${usage}
 
 ## License
 
-${license}
+${license} is the license being used in this repo:
 
 
 ## Contributing

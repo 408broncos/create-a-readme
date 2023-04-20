@@ -1,4 +1,3 @@
-
 # create-a-readme
 ![Github license](http://img.shields.io/badge/license-MIT-blue.svg)
 
@@ -30,7 +29,7 @@ In this assignment I used primarily node, json, javascript and inquirer for my t
 
 ## License
 
-MIT
+MIT is the license being used in this repo:
 
 
 ## Contributing
