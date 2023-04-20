@@ -43,7 +43,9 @@ For running tests in this project I would use "npm test"
 ### Jordan Cardenas
 
 If you have any questions regarding this or past projects please email me at the address linked below.
+
 [Email](https://jordanbc408@gmail.com)
 
 If you would like to look at any of my past projects feel free to check them out with my github account linked below!
+
 [Github](https://github.com/408broncos)
