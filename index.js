@@ -59,7 +59,7 @@ inquirer
     },
 
     {
-        name: "installation",
+        name: "install",
         message: "Enter ways you installed your project",
         type: "input"
     },
@@ -83,18 +83,16 @@ const generateREADME = ({ author, email, github, title, description, usage, test
 
 ## Description
 
-This Prework Study Guide helps show new begineers a glimpse into what HTML, Javascript and CSS is.
-
 ${description}
 
 ## Table of contents
 
-* [Installation]
-* [Usage]
-* [License]
-* Contributing]
-* [Tests]
-* [Author/Questions]
+* [Installation](#install)
+* [Usage](#usage)
+* [License](#license)
+* [Contributing](#contributors)
+* [Tests](#test)
+* [Author/Questions](#author)
 
 ## Installation
 
@@ -106,8 +104,6 @@ ${install}
 
 ## Usage
 
-This study guide can be used for multiple reasons, but what ive found that helped me was understanding what web development is. Having knowledge about all of the languages and how to use terminal and github is something I would have never been able to understand without this study guide.
-
 ${usage}
 
 ## License
@@ -117,13 +113,9 @@ ${license}
 
 ## Contributing
 
-If you created an application or package and would like other developers to contribute to it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
-
 ${contributors}
 
 ## Tests
-
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
 
 ${test}
 
