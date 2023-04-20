@@ -24,6 +24,10 @@ Here's a quick walkthrough demo video showing how this application functions.
 
 
 
+https://user-images.githubusercontent.com/126821868/233249858-0105a16c-66bb-4672-99bf-e2d4b59e98cf.mp4
+
+
+
 ## Usage
 
 In this assignment I used primarily node, json, javascript and inquirer for my terminal so that I can prompt questions and answer them to display on the README.md
