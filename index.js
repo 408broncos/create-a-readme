@@ -54,7 +54,7 @@ inquirer
 
     {
         name: "contributors",
-        message: "Enter any contributors to your project (if none put 'none')",
+        message: "Enter any contributions to your project (if none put 'none')",
         type: "input"
     },
 
@@ -87,11 +87,22 @@ This Prework Study Guide helps show new begineers a glimpse into what HTML, Java
 
 ${description}
 
+## Table of contents
+
+* [Installation]
+* [Usage]
+* [License]
+* Contributing]
+* [Tests]
+* [Author/Questions]
 
 ## Installation
 
 What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 ${install}
+
+## Markdown
+
 
 ## Usage
 
@@ -104,7 +115,7 @@ ${usage}
 ${license}
 
 
-## How to Contribute
+## Contributing
 
 If you created an application or package and would like other developers to contribute to it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
 
@@ -116,9 +127,13 @@ Go the extra mile and write tests for your application. Then provide examples on
 
 ${test}
 
-## Author
+## Author/Questions
 
 ### ${author}
+
+If you have any questions regarding this or past projects please email me at the address linked below.
 [Email](https://${email})
+
+If you would like to look at any of my past projects feel free to check them out with my github account linked below!
 [Github](https://github.com/${github})
 `}
