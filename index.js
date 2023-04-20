@@ -97,10 +97,11 @@ ${description}
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 ${install}
 
 ## Markdown
+
+Here's a quick walkthrough demo video showing how this application functions. 
 
 
 ## Usage
