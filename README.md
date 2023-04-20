@@ -44,6 +44,7 @@ none
 ## Tests
 
 npm install inquirer
+npm init
 
 ## Author/Questions
 
